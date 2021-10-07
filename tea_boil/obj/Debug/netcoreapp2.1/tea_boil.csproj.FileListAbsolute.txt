@@ -1,0 +1,11 @@
+Z:\c#\opakování\tea_boil\tea_boil\bin\Debug\netcoreapp2.1\tea_boil.deps.json
+Z:\c#\opakování\tea_boil\tea_boil\bin\Debug\netcoreapp2.1\tea_boil.runtimeconfig.json
+Z:\c#\opakování\tea_boil\tea_boil\bin\Debug\netcoreapp2.1\tea_boil.runtimeconfig.dev.json
+Z:\c#\opakování\tea_boil\tea_boil\bin\Debug\netcoreapp2.1\tea_boil.dll
+Z:\c#\opakování\tea_boil\tea_boil\bin\Debug\netcoreapp2.1\tea_boil.pdb
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.csprojAssemblyReference.cache
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.csproj.CoreCompileInputs.cache
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.AssemblyInfoInputs.cache
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.AssemblyInfo.cs
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.dll
+Z:\c#\opakování\tea_boil\tea_boil\obj\Debug\netcoreapp2.1\tea_boil.pdb
